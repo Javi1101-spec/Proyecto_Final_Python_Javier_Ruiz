@@ -55,8 +55,8 @@ Seguí estos pasos para clonar, instalar y ejecutar el proyecto en tu entorno lo
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
-cd NOMBRE_DEL_REPO
+git clone https://github.com/Javi1101-spec/Proyecto_Final_Python_Javier_Ruiz.git
+cd Proyecto_Final_Python_Javier_Ruiz
 ```
 
 ### 2. Crear y activar el entorno virtual
